@@ -13,6 +13,7 @@ cover something, say so and ask; don't fill the gap with a guess.
 - `docs/words-we-use.md`: definitions, so everyone means the same thing
 - `docs/suppliers.md`: how we work with suppliers and how long orders take
 - `docs/meetings/`: notes from team meetings, newest last
+- `MEMORY.md`: what the team has decided and why, newest first (loaded below)
 
 ## Rules
 - Never change anything in `docs/` unless asked to. Those are approved documents; suggest the
@@ -23,3 +24,8 @@ cover something, say so and ask; don't fill the gap with a guess.
   discussions, not decisions.
 - Use the definitions in `docs/words-we-use.md` exactly, so everyone gets the same answer to the
   same question.
+- When the team decides something, add it to `MEMORY.md`: date, decision, reason, newest first.
+  Not only to your own notes, because the whole team needs to find it.
+
+## Decisions
+@MEMORY.md

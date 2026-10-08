@@ -8,3 +8,4 @@ when it works with a file in this folder.
 - If a note uses a word that isn't defined in `docs/words-we-use.md`, say so and ask what it
   means, because two people reading the same note should not come away with two meanings.
 - When you summarise a meeting, list its decisions first, then the open points.
+- If a decision isn't in `MEMORY.md` yet, offer to add it.
