@@ -18,4 +18,5 @@ No data tables yet; those come in Lesson 2.
 | `.claude/rules/` | Rule files: extra instructions, some only for certain folders |
 | `docs/` | The handbook: company, voice, returns, words we use, suppliers |
 | `docs/meetings/` | Notes from team meetings |
+| `docs/meetings/CLAUDE.md` | Extra instructions for this folder only, read when Claude works here |
 | `drafts/customers/` | Where replies to customers are drafted |
