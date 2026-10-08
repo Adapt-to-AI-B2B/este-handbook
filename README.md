@@ -15,6 +15,7 @@ No data tables yet; those come in Lesson 2.
 | File or folder | What it is |
 |---|---|
 | `CLAUDE.md` | What Claude reads at the start of every session |
+| `MEMORY.md` | The team's decisions and their reasons; CLAUDE.md loads it every session |
 | `.claude/rules/` | Rule files: extra instructions, some only for certain folders |
 | `docs/` | The handbook: company, voice, returns, words we use, suppliers |
 | `docs/meetings/` | Notes from team meetings |
