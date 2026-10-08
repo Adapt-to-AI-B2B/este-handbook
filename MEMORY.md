@@ -5,5 +5,5 @@ A decision counts once it is written here; meeting notes and chats are discussio
 
 - **2026-09-29** · Reorder the Men's T-shirt when it drops under 4 weeks of cover, because it
   keeps running low. (Weekly trading meeting)
-- **2026-09-15** · Online returns are booked into Sage the day they arrive in Maia, because Sage
-  is the source of truth for stock and the stores rely on it.
+- **2026-09-22** · No more AW26 deliveries to Madrid Salamanca this month, because it is selling
+  slower than last year and Lisboa and Porto need the stock.
